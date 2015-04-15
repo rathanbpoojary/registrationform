@@ -1,4 +1,5 @@
 hello all, i am anew developer ..
 
 before doing any modification you need to remember 3 steps.
- step1: pull the codes before you comitt
+ step1: pull the codes before you comitt.
+ Step2: comitt the local codes.
